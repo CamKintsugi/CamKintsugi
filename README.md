@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking and hacktivism.
 - 🌱 I’m currently learning python3 and working on my Network+ certification. 
 - 💞️ I’m looking to collaborate on learning and activism. 
-- 📫 How to reach me ...
+- 📫 I can be found here on github, tryhackme's discord (kintsugi-san). 
 
 <!---
 CamKintsugi/CamKintsugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
